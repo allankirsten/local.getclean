@@ -21,9 +21,9 @@ $mail->Password = 'cabaco123'; // Senha do servidor SMTP (senha do email usado)
  
 // Define o remetente
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-$mail->From = "contato@getclean.com.br"; // Seu e-mail
+$mail->From = $email; // Seu e-mail
 $mail->Sender = "contato@getclean.com.br"; // Seu e-mail
-$mail->FromName = "Contato"; // Seu nome
+$mail->FromName = "Contato pelo Site"; // Seu nome
  
 // Define os destinatário(s)
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
