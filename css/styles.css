@@ -369,6 +369,9 @@ sup {
 .ServAutomotivos{
 	background: url(../img/servicos/automotivos.jpg) no-repeat center center;
 }
+.ServImperm{
+	background: url(../img/servicos/impermeabilizacao.jpg) no-repeat center center;
+}
 
 .ServImage{
 	width: 50%;
